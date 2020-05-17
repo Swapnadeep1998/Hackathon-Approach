@@ -1,0 +1,26 @@
+{
+    "python.linting.enabled": true,
+    "python.pythonPath": "C:\\Python3.7\\python.exe",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#3fb9b5",
+        "activityBar.activeBorder": "#f6e7f7",
+        "activityBar.background": "#3fb9b5",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#f6e7f7",
+        "activityBarBadge.foreground": "#15202b",
+        "statusBar.background": "#329390",
+        "statusBar.border": "#329390",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#3fb9b5",
+        "titleBar.activeBackground": "#329390",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.border": "#329390",
+        "titleBar.inactiveBackground": "#32939099",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#329390",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": false,
+    "python.linting.banditEnabled": true
+}
